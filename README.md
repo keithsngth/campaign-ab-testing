@@ -10,8 +10,13 @@ Here we utilise basic statistical tests to investigate the application of A/B te
 
 ## Getting Started
 ### Pre-requisites
-To run scripts in this repo, intialise a new uv virtual environment (venv) or use an existing environment to install the required dependencies.
+First, install uv executing the command below in your terminal, if it isn’t already installed.
+```bash
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex" # Windows
+curl -LsSf https://astral.sh/uv/install.sh | sh # Mac
+```
 
+Then, to run scripts in this repo, intialise a new uv virtual environment (venv) or use an existing environment to install the required dependencies.
 ```bash
 # Create uv environment
 uv venv --python 3.11.8
