@@ -6,7 +6,7 @@ Businesses often launch campaigns after modifying existing strategies, websites,
 
 At its core, an A/B test compares the means of two or more groups to identify which group has a higher or lower average outcome, depending on the context, using methods such as t-tests or ANOVA.
 
-Here we utilise basic statistical tests to investigate the application of A/B testing in marketing campaigns designed to enhance e-commerce through a website. Specifically, we will determine whether the launch of a new campaign has resulted in increased product views on the company website and, consequently, higher sales revenue.
+Here, we utilise basic statistical tests to investigate the application of A/B testing in marketing campaigns designed to enhance e-commerce through a website. Specifically, we will determine whether the launch of a new campaign has resulted in increased product views on the company website and, consequently, higher sales revenue.
 
 ## Getting Started
 ### Pre-requisites
